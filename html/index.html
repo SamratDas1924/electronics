@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>My Portfolio</title>
+    </head>
+    <!-------------------- box Icon css ------------------->
+    <link href="https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css" rel="stylesheet">
+
+    <!-------------------- bootstrap css ------------------->
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+        crossorigin="anonymous"
+    >
+
+    <!-------------------- Animate css  --------------------->
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+
+    <!-------------------- css ------------------->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <body>
+        <div class="main">
+            <!----------------- side navbar  -------------------->
+            <div class="side-nav">
+                <center>
+                    <div class="circle"></div>
+                    <div class="name">
+                        <h2>Samrat Das</h2>
+                    </div>
+                    <div class="icon">
+                        <div class="sub-icon" id="facebook">
+                            <a href="https://www.facebook.com/samratdas.1924">
+                                <i class="bx bxl-facebook" style="color:#f3f2f1"></i>
+                            </a>
+                        </div>
+                        <div class="sub-icon" id="youtube">
+                            <a href="">
+                                <i class="bx bxl-youtube" style="color:#faf9f9"></i>
+                            </a>
+                        </div>
+                        <div class="sub-icon" id="whatsapp">
+                            <a href="">
+                                <i class="bx bxl-whatsapp" style="color:#fffdfd"></i>
+                            </a>
+                        </div>
+                        <div class="sub-icon" id="instagram">
+                            <a href="https://www.linkedin.com/in/samratdas1924/">
+                                <i class="bx bxl-linkedin" style="color:#fcfcfc"></i>
+                            </a>
+                        </div>
+                        <div class="sub-icon" id="twitter">
+                            <a href="">
+                                <i class="bx bxl-twitter" style="color:#fffdfd"></i>
+                            </a>
+                        </div>
+                    </div>
+                </center>
+                <div class="next">
+                    <ul>
+                        <li>
+                            <a href="#" class="list">
+                                <i class="bx bx-home"></i>
+                                &nbsp;&nbsp;&nbsp;
+                                <span class="home">Home</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#about1" class="list">
+                                <i class="bx bx-user"></i>
+                                &nbsp;&nbsp;&nbsp;
+                                <span class="home"> About</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#resume1" class="list">
+                                <i class="bx bx-file-blank"></i>
+                                &nbsp;&nbsp;&nbsp;
+                                <span class="home"> Resume</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#project1" class="list">
+                                <i class="bx bx-book-content"></i>
+                                &nbsp;&nbsp;&nbsp;
+                                <span class="home"> Project</span>
+                            </a>
+                        </li>
+                        <!-- <li>
+                            <a href="" class="list">
+                                <i class="bx bx-server"></i>
+                                &nbsp;&nbsp;&nbsp;
+                                <span class="home"> Services</span>
+                            </a>
+                        </li> -->
+                        <li>
+                            <a href="#contact1" class="list">
+                                <i class="bx bx-envelope"></i>
+                                &nbsp;&nbsp;&nbsp;
+                                <span class="home"> Contact</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="last-down">
+                    <p class="copyright">
+                        Copyright © 2022
+                        <br>
+                        Designed by Samrat Das
+                    </p>
+                </div>
+            </div>
+            
+            <!----------------- mobile-nav  ---------------------->
+            <div class="mobile-nav">
+                <i class="bx bx-menu" onclick="cli1()"></i>
+            </div>
+            
+            <!-------------------- land page  -------------------->
+            <div class="land-page" id="home">
+                <h1 class="das wow animate__animated animate__fadeInDown">Samrat Das</h1>
+                <p class="design wow animate__animated animate__fadeInUp">
+                    Hello, I'm
+                    <span id="type"></span>
+                </p>
+            </div>
+        </div>
+        <!------------------ up-arrow  -------------------->
+        <div class="up-arrow" id="back-to-top">
+            <a href="#">
+                <i class="bx bx-up-arrow-alt" id="arrow"></i>
+            </a>
+        </div>
+        <!------------------- about section  ------------------->
+        <div class="about" id="about1">
+            <h3 class="head">About</h3>
+            <p class="samrat">
+                I'm Samrat Das, Recident of Nimta, Kolkata - 700049, West Bengal.
+         I'm a Full Stack Developer. I have completed Diploma in Full Stack Development.
+          I have designed many website. I have also Developed so many Website.
+            </p>
+            <div class="about-under">
+                <div class="about-under-left" id="about-under-left">
+                    <img src="assets/profilepic.jpeg" alt="" class="leftpic">
+                </div>
+                <div class="about-under-right">
+                    <div class="about-under-right1 wow animate__animated animate__fadeInLeft">
+                        <div class="about-under-right2">
+                            <div class="greater-than"></div>
+                            <span class="span-left">
+                                <b>Birthday :</b>
+                            </span>
+                            <span class="span-right">5 July 1993</span>
+                        </div>
+                        <div class="about-under-right2">
+                            <div class="greater-than"></div>
+                            <span class="span-left">
+                                <b>City :</b>
+                            </span>
+                            <span class="span-right">Kolkata, India</span>
+                        </div>
+                        <div class="about-under-right2">
+                            <div class="greater-than"></div>
+                            <span class="span-left">
+                                <b>Degree :</b>
+                            </span>
+                            <span class="span-right">Diploma</span>
+                        </div>
+                    </div>
+                    <div class="about-under-right1 wow animate__animated animate__fadeInRight">
+                        <div class="about-under-right2">
+                            <div class="greater-than"></div>
+                            <span class="span-left">
+                                <b>Phone :</b>
+                            </span>
+                            <span class="span-right">9123858217</span>
+                        </div>
+                        <div class="about-under-right2">
+                            <div class="greater-than"></div>
+                            <span class="span-left">
+                                <b>Email :</b>
+                            </span>
+                            <span class="span-right">samratdas.1924@gmail.com</span>
+                        </div>
+                        <div class="about-under-right2">
+                            <div class="greater-than"></div>
+                            <span class="span-left">
+                                <b>Website :</b>
+                            </span>
+                            <span class="span-right">samratdas.com</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-------------------- skill section  ------------------->
+        <div class="skill">
+            <h3 class="head">Skills</h3>
+            <div class="skill-under">
+                <div class="skill-under-next wow animate__animated animate__fadeInLeft">
+                    <h4 class="right-under-text">HTML</h4>
+                    <div class="progress">
+                        <div
+                            class="progress-bar"
+                            role="progressbar"
+                            style="width: 90%"
+                            aria-valuenow="25"
+                            aria-valuemin="0"
+                            aria-valuemax="100"
+                        ></div>
+                    </div>
+                    <h4 class="right-under-text">CSS</h4>
+                    <div class="progress">
+                        <div
+                            class="progress-bar"
+                            role="progressbar"
+                            style="width: 80%"
+                            aria-valuenow="25"
+                            aria-valuemin="0"
+                            aria-valuemax="100"
+                        ></div>
+                    </div>
+                    <h4 class="right-under-text">JAVASCRIPT</h4>
+                    <div class="progress">
+                        <div
+                            class="progress-bar"
+                            role="progressbar"
+                            style="width: 70%"
+                            aria-valuenow="25"
+                            aria-valuemin="0"
+                            aria-valuemax="100"
+                        ></div>
+                    </div>
+                </div>
+                <div class="skill-under-next wow animate__animated animate__fadeInRight">
+                    <h4 class="right-under-text">PHP</h4>
+                    <div class="progress">
+                        <div
+                            class="progress-bar"
+                            role="progressbar"
+                            style="width: 50%"
+                            aria-valuenow="25"
+                            aria-valuemin="0"
+                            aria-valuemax="100"
+                        ></div>
+                    </div>
+                    <h4 class="right-under-text">WORDPRESS/CMS</h4>
+                    <div class="progress">
+                        <div
+                            class="progress-bar"
+                            role="progressbar"
+                            style="width: 60%"
+                            aria-valuenow="25"
+                            aria-valuemin="0"
+                            aria-valuemax="100"
+                        ></div>
+                    </div>
+                    <h4 class="right-under-text">PHOTOSHOP</h4>
+                    <div class="progress">
+                        <div
+                            class="progress-bar"
+                            role="progressbar"
+                            style="width: 50%"
+                            aria-valuenow="25"
+                            aria-valuemin="0"
+                            aria-valuemax="100"
+                        ></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!----------------- resume section   ----------------------->
+        <div class="resume" id="resume1">
+            <h3 class="head">Resume</h3>
+            <div class="resume-under">
+                <div class="resume-under-left" id="resume-under-next1">
+                    <h4 class="resume-text">Educational Qualification</h4>
+                    <div class="resume-text-next wow animate__animated animate__fadeInLeft">
+                        <h5 class="qualification">Bachelor Of Commerce</h5>
+                        <button class="qualification-btn">2011-2014</button>
+                        <p class="qualification-text">I have completed B.Com in 2014 with First class.</p>
+                    </div>
+                    <div class="resume-text-next wow animate__animated animate__fadeInLeft" id="resume-under-next2">
+                        <h5 class="qualification">Diploma in Computer Fundamental</h5>
+                        <button class="qualification-btn">2014-2016</button>
+                        <p class="qualification-text">I have completed  Diploma in Computer Fundamental in 2016.</p>
+                    </div>
+                </div>
+                <div class="resume-under-right">
+                    <h4 class="resume-text">Others Qualification</h4>
+                    <div class="resume-text-next wow animate__animated animate__fadeInRight">
+                        <h5 class="qualification">Diploma in Tally ERP-9</h5>
+                        <button class="qualification-btn">2016-2017</button>
+                        <p class="qualification-text">I have completed Diploma in Tally in 2017.</p>
+                    </div>
+                    <div class="resume-text-next wow animate__animated animate__fadeInRight">
+                        <h5 class="qualification">Diploma in Full Stack Development</h5>
+                        <button class="qualification-btn">2021-2022</button>
+                        <p class="qualification-text">I have completed Diploma in Full Stack Development in 2022.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!------------------- project  --------------------->
+        <div class="project" id="project1">
+            <h3 class="head">Project</h3>
+            <div class="project-under">
+                <div class="project-under-left">
+                    <div class="project-undeer-next wow animate__animated animate__fadeInLeft">
+                        <img src="assets/project1.png" alt="" class="project-pic">
+                        <div class="view">
+
+                            <a href="#" class="project-text">View Details</a>
+                            <a href="https://github.com/SamratDas1924/electronics" class="project-text">GitHub Code</a>
+                        </div>
+                    </div>
+                    <div class="project-undeer-next wow animate__animated animate__fadeInLeft">
+                        <img src="assets/project2.png" alt="" class="project-pic">
+                        <div class="view">
+
+                            <a href="https://elitestylepolyclinic.com" class="project-text">View Details</a>
+                            <a href="#" class="project-text">GitHub Code</a>
+                        </div>
+                    </div>
+                    <div class="project-undeer-next wow animate__animated animate__fadeInLeft">
+                        <img src="assets/project5.png" alt="" class="project-pic">
+                        <div class="view">
+
+                            <a href="#" class="project-text">View Details</a>
+                            <a href="https://github.com/SamratDas1924/js-api-call" class="project-text">GitHub Code</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="project-under-right">
+                    <div class="project-undeer-next wow animate__animated animate__fadeInRight">
+                        <img src="assets/project3.png" alt="" class="project-pic">
+                        <div class="view">
+
+                            <a href="#" class="project-text">View Details</a>
+                            <a href="https://github.com/SamratDas1924/skill-haunt" class="project-text">GitHub Code</a>
+                        </div>
+                    </div>
+                    <div class="project-undeer-next wow animate__animated animate__fadeInRight">
+                        <img src="assets/project4.png" alt="" class="project-pic">
+                        <div class="view">
+
+                            <a href="https://thegrowingindia.com" class="project-text">View Details</a>
+                            <a href="#" class="project-text">GitHub Code</a>
+                        </div>
+                    </div>
+                    <div class="project-undeer-next wow animate__animated animate__fadeInRight">
+                        <img src="assets/project6.png" alt="" class="project-pic">
+                        <div class="view">
+
+                            <a href="#" class="project-text">View Details</a>
+                            <a href="https://github.com/SamratDas1924/js-digital-clock" class="project-text">GitHub Code</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!------------------ contact section   ------------------->
+        <div class="contact" id="contact1">
+            <h3 class="head">Contact</h3>
+            <div class="contact-under">
+                <div class="contact-under-left wow animate__animated animate__fadeInLeft">
+                    <div class="call">
+                        <div class="call-under">
+                            <i class="bx bx-mobile-alt" id="call-icon"></i>
+                        </div>
+                        <div class="call-text">
+                            <span class="call-span">Call:</span>
+                            <br>
+                            <p class="call-p">+919123858217</p>
+                        </div>
+                    </div>
+                    <div class="call">
+                        <div class="call-under">
+                            <i class="bx bx-envelope" id="call-icon"></i>
+                        </div>
+                        <div class="call-text">
+                            <span class="call-span">Email:</span>
+                            <br>
+                            <p class="call-p">samratdas.1924@gmail.com</p>
+                        </div>
+                    </div>
+                    <div class="call">
+                        <div class="call-under">
+                            <i class="bx bx-location-plus" id="call-icon"></i>
+                        </div>
+                        <div class="call-text">
+                            <span class="call-span">Location:</span>
+                            <br>
+                            <p class="call-p">Tarakeswar Pally, P.O.- Nimta, Kolkata - 700049</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-under-right wow animate__animated animate__fadeInRight">
+                    <div class="form">
+                        <label for="" class="form-lable">Your Name:</label>
+                        <br>
+                        <input type="text" placeholder="Name" class="form-input">
+                        <br>
+                        <label for="" class="form-lable">Your Email:</label>
+                        <br>
+                        <input type="email" placeholder="Email" class="form-input">
+                        <br>
+                        <label for="" class="form-lable">Subject:</label>
+                        <br>
+                        <input type="text" placeholder="Subject" class="form-input">
+                        <br>
+                        <label for="" class="form-lable">Message:</label>
+                        <br>
+                        <textarea
+                            name=""
+                            id="msg" 
+                            placeholder="Massage"
+                        ></textarea>
+                        <br>
+                        <center>
+                            <button class="submit">Submit</button>
+                        </center>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--------------------- typed java script  ----------------------->
+        <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+        
+        <!--------------------- jquery java script  ----------------------->
+        <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+        
+        <!--------------------- wow java script  ----------------------->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script> new WOW().init(); </script>
+
+        <!--------------------- java script  ----------------------->
+        <script src="script.js"></script>
+    </body>
+</html>
