@@ -1,0 +1,541 @@
+ <div class="item">
+                <div id="caritem">
+                    <div>
+                        <p id="carname" class="animate__animated animate__fadeInDown">Smart TV</p>
+                        <br>
+                        <p id="cardis" class="animate__animated animate__zoomIn">UPTO 10% DISCOUNT</p>
+                        <br>
+                        <a href="" class="anchor">
+                            <div id="shop" class="animate__animated animate__fadeInUp">Shop Now</div>
+                        </a>
+                    </div>
+                    <div id="cardiv">
+                        <img src="assets/car2.png" class="d-block" alt="Refrigerator" id="carpic">
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div id="caritem">
+                    <div>
+                        <p id="carname" class="animate__animated animate__fadeInDown">Refrigerator</p>
+                        <br>
+                        <p id="cardis" class="animate__animated animate__zoomIn">UPTO 15% DISCOUNT</p>
+                        <br>
+                        <a href="" class="anchor">
+                            <div id="shop" class="animate__animated animate__fadeInUp">Shop Now</div>
+                        </a>
+                    </div>
+                    <div id="cardiv">
+                        <img src="assets/car3.png" class="d-block" alt="Washing Machine" id="carpic">
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div id="caritem">
+                    <div>
+                        <p id="carname" class="animate__animated animate__fadeInDown">Washing Machine</p>
+                        <br>
+                        <p id="cardis" class="animate__animated animate__zoomIn">UPTO 25% DISCOUNT</p>
+                        <br>
+                        <a href="" class="anchor">
+                            <div id="shop" class="animate__animated animate__fadeInUp">Shop Now</div>
+                        </a>
+                    </div>
+                    <div id="cardiv">
+                        <img src="assets/car4.png" class="d-block" alt="Smart TV" id="carpic">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+            <div class="item">
+                        <div class="mobitem">
+                            <p class="mobname">Samsung S20 FE</p>
+                            <img src="assets/sams20fe.png" alt="" class="mobpic">
+                            <p class="mobprice">₹ 29,999</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+            <div class="item">
+                        <div class="mobitem">
+                            <p class="mobname">OnePlus 11 5G</p>
+                            <img src="assets/one11.png" alt="" class="mobpic">
+                            <p class="mobprice">₹ 56,999</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="mobitem">
+                            <p class="mobname">Oppo Reno 8T</p>
+                            <img src="assets/OPPRe8T.png" alt="" class="mobpic">
+                            <p class="mobprice"> ₹ 29,840</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="mobitem">
+                            <p class="mobname">Oppo Reno 8T</p>
+                            <img src="assets/OPPRe8T.png" alt="" class="mobpic">
+                            <p class="mobprice"> ₹ 29,840</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="mobitem">
+                            <p class="mobname">Oppo Reno 8T</p>
+                            <img src="assets/OPPRe8T.png" alt="" class="mobpic">
+                            <p class="mobprice"> ₹ 29,840</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="mobitem">
+                            <p class="mobname">Oppo Reno 8T</p>
+                            <img src="assets/OPPRe8T.png" alt="" class="mobpic">
+                            <p class="mobprice"> ₹ 29,840</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+                     <div class="item">
+                        <div class="tvitem">
+                            <p class="tvname">OnePlus 32in 32Y1</p>
+                            <img src="assets/ONE32Y1.png" alt="" class="tvpic">
+                            <p class="tvprice">₹ 14,999</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="tvitem">
+                            <p class="tvname">LG 43in UQ80</p>
+                            <img src="assets/LG43UQ80.png" alt="" class="tvpic">
+                            <p class="tvprice">₹ 40,990</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="tvitem">
+                            <p class="tvname">Sony 55in X80K</p>
+                            <img src="assets/Sony55X80K.png" alt="" class="tvpic">
+                            <p class="tvprice">₹ 80,740</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="tvitem">
+                            <p class="tvname">Sony 55in X80K</p>
+                            <img src="assets/Sony55X80K.png" alt="" class="tvpic">
+                            <p class="tvprice">₹ 80,740</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="tvitem">
+                            <p class="tvname">Sony 55in X80K</p>
+                            <img src="assets/Sony55X80K.png" alt="" class="tvpic">
+                            <p class="tvprice">₹ 80,740</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="tvitem">
+                            <p class="tvname">Sony 55in X80K</p>
+                            <img src="assets/Sony55X80K.png" alt="" class="tvpic">
+                            <p class="tvprice">₹ 80,740</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+                    <div class="item">
+                        <div class="wmitem">
+                            <p class="wmname">LG 7kg</p>
+                            <img src="assets/LG7kg5.png" alt="" class="wmpic">
+                            <p class="wmprice">₹ 14,890</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="wmitem">
+                            <p class="wmname">Samsung 7Kg</p>
+                            <img src="assets/Sam7Kg5.png" alt="" class="wmpic">
+                            <p class="wmprice">₹ 34,650</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="wmitem">
+                            <p class="wmname">Haier 6.5Kg</p>
+                            <img src="assets/Haier6.5Kg3.png" alt="" class="wmpic">
+                            <p class="wmprice">₹ 9,290</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="wmitem">
+                            <p class="wmname">Haier 6.5Kg</p>
+                            <img src="assets/Haier6.5Kg3.png" alt="" class="wmpic">
+                            <p class="wmprice">₹ 9,290</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="wmitem">
+                            <p class="wmname">Haier 6.5Kg</p>
+                            <img src="assets/Haier6.5Kg3.png" alt="" class="wmpic">
+                            <p class="wmprice">₹ 9,290</p>
+                            <a href="" class="anchor">
+                                <div id="shop1">Shop Now</div>
+                            </a>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+                    <div class="product-under-right-box">
+                            <div class="ref-pic">
+                                <img src="../assets/God190L5.png" alt="" id="ref-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Godrej 190L 5 Star</p>
+                            <p class="pro-price">₹ 16,490</p>
+                        </div>
+                    </div>
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="tv-pic">
+                                <img src="../assets/ONE32Y1.png" alt="" id="tv-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">OnePlus 32 inch 32Y1</p>
+                            <p class="pro-price">₹ 14,999</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="wm-pic">
+                                <img src="../assets/Pana8Kg5.png" alt="" id="wm-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Panasonic 8Kg 5 Star</p>
+                            <p class="pro-price">₹ 13,790</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-under-right-next">
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="tv-pic">
+                                <img src="../assets/Sam32T5300.png" alt="" id="tv-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Samsung 32 inch T5300</p>
+                            <p class="pro-price">₹ 16,450</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="wm-pic">
+                                <img src="../assets/LG7kg5.png" alt="" id="wm-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">LG 7kg 5 Star</p>
+                            <p class="pro-price">₹ 14,890</p>
+                        </div>
+                    </div>
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="tv-pic">
+                                <img src="../assets/LG43UQ80.png" alt="" id="tv-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">LG 43 inch UQ80</p>
+                            <p class="pro-price">₹ 40,990</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="mob-pic">
+                                <img src="../assets/iph14pm.png" alt="" id="mob-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Iphone 14 Pro Max</p>
+                            <p class="pro-price">₹ 128,990</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-under-right-next">
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="ref-pic">
+                                <img src="../assets/LG190L4.png" alt="" id="ref-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">LG 190L 4 Star</p>
+                            <p class="pro-price">₹ 16,790</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="mob-pic">
+                                <img src="../assets/one11.png" alt="" id="mob-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">OnePlus 11 5G</p>
+                            <p class="pro-price">₹ 56,999</p>
+                        </div>
+                    </div>
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="ref-pic">
+                                <img src="../assets/Sam192L3.png" alt="" id="ref-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Samsung 192L 3 Star</p>
+                            <p class="pro-price">₹ 15,999</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="mob-pic">
+                                <img src="../assets/OPPRe8T.png" alt="" id="mob-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Oppo Reno 8T</p>
+                            <p class="pro-price">₹ 29,840</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="product-under-right-next">
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="wm-pic">
+                                <img src="../assets/Sam7Kg5.png" alt="" id="wm-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Samsung 7Kg 5 Star</p>
+                            <p class="pro-price">₹ 34,650</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="tv-pic">
+                                <img src="../assets/Sony55X80K.png" alt="" id="tv-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Sony 55 inch X80K</p>
+                            <p class="pro-price">₹ 80,740</p>
+                        </div>
+                    </div>
+                    <div class="product-under-right-next2">
+                        <div class="product-under-right-box">
+                            <div class="wm-pic">
+                                <img src="../assets/Haier6.5Kg3.png" alt="" id="wm-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Haier 6.5Kg 3 Star</p>
+                            <p class="pro-price">₹ 9,290</p>
+                        </div>
+                        <div class="product-under-right-box">
+                            <div class="ref-pic">
+                                <img src="../assets/Whi215L5.png" alt="" id="ref-pic">
+                            </div>
+                            <div class="quick">
+                                <a href="" class="view">
+                                    <i class="bx bx-cart" id="cart2" title="Cart List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-heart" id="wish2" title="Wish List"></i>
+                                </a>
+                                <a href="" class="view">
+                                    <i class="bx bx-detail" id="view" title="Quick View"></i>
+                                </a>
+                            </div>
+                            <p class="name">Whirlpool 215L 5 Star</p>
+                            <p class="pro-price">₹ 18,999</p>
+                        </div>
+                    </div>

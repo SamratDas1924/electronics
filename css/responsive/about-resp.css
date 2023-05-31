@@ -1,0 +1,317 @@
+/********** Responsive for max-width: 290px ***********/
+
+@media only screen and (max-width:290px) {
+
+    
+    /********************** about  ***************************/
+
+    .about {
+        margin-top: 110px;
+    }
+
+    .about-under {
+        width: 100%;
+        padding: 2rem;
+    }
+
+    .about-head {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .para {
+        font-size: 0.7rem;
+    }
+}
+
+
+
+
+
+/************ Responsive for max-width: 380px ***********/
+
+
+@media only screen and (min-width:290px) and (max-width:380px) {
+
+
+
+/********************** about  ***************************/
+
+.about {
+    margin-top: 70px;
+}
+
+.about-under {
+    width: 100%;
+    padding: 3rem;
+}
+
+.about-head {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.para {
+    font-size: 0.8rem;
+}
+
+}
+
+
+
+
+
+
+
+
+/************ Responsive for max-width: 400px ***********/
+
+
+@media only screen and (min-width:381px) and (max-width:400px) {
+
+
+
+    /********************** about  ***************************/
+    
+    .about {
+        margin-top: 70px;
+    }
+    
+    .about-under {
+        width: 100%;
+        padding: 3rem;
+    }
+    
+    .about-head {
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+    }
+    
+    .para {
+        font-size: 0.8rem;
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+/************ Responsive for max-width: 420px ***********/
+
+
+
+@media only screen and (min-width:401px) and (max-width:420px) {
+
+
+    /********************** about  ***************************/
+
+    .about {
+        margin-top: 75px;
+    }
+
+    .about-under {
+        width: 100%;
+        padding: 3rem;
+    }
+    
+    .about-head {
+        font-size: 1.2rem;
+        margin-bottom: 2rem;
+    }
+    
+    .para {
+        font-size: 0.8rem;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/********** Responsive for max-width: 550px ***********/
+
+
+
+@media only screen and (min-width:421px) and (max-width:550px) {
+
+    /********************** about  ***************************/
+
+    .about {
+        margin-top: 90px;
+    }
+
+    .about-under {
+        width: 80%;
+        padding: 4rem;
+    }
+    
+    .about-head {
+        font-size: 1.4rem;
+        margin-bottom: 3rem;
+    }
+    
+    .para {
+        font-size: 0.8rem;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 780px ***********/
+
+
+
+@media only screen and (min-width:561px) and (max-width:780px) {
+
+
+    /********************** about  ***************************/
+
+    .about {
+        margin-top: 100px;
+    }
+
+    .about-under {
+        width: 80%;
+        padding: 4rem;
+    }
+    
+    .about-head {
+        font-size: 1.6rem;
+        margin-bottom: 3rem;
+    }
+    
+    .para {
+        font-size: 0.9rem;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 830px ***********/
+
+
+@media only screen and (min-width:781px) and (max-width:830px) {
+
+
+    /********************** about  ***************************/
+
+    .about {
+        margin-top: 100px;
+    }
+
+    .about-under {
+        width: 80%;
+        padding: 5rem;
+    }
+    
+    .about-head {
+        font-size: 1.8rem;
+        margin-bottom: 3rem;
+    }
+    
+    .para {
+        font-size: 0.9rem;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 920px ***********/
+
+
+@media only screen and (min-width:831px) and (max-width:920px) {
+
+
+    /****************************** about  ***************************/
+
+    .about {
+        margin-top: 100px;
+    }
+
+    .about-under {
+        width: 80%;
+        padding: 5rem;
+    }
+    
+    .about-head {
+        font-size: 1.8rem;
+        margin-bottom: 3rem;
+    }
+    
+    .para {
+        font-size: 1rem;
+        color: rgb(64, 64, 64);
+        text-align: center;
+    }
+
+}
+
+
+
+
+
+/********** Responsive for max-width: 1030px ***********/
+
+
+@media only screen and (min-width:921px) and (max-width:1030px) {
+
+
+    /****************************** about  ***************************/
+
+    .about {
+        margin-top: 100px;
+    }
+
+    .about-under {
+        width: 80%;
+        padding: 5rem;
+    }
+
+}
+
+
+
+
+
+
+
+
+/********** Responsive for max-width: 1290px ***********/
+
+
+@media only screen and (min-width:1031px) and (max-width:1290px) {
+
+    /****************************** about  ***************************/
+
+    .about-under {
+        width: 80%;
+    }
+
+    /*************** footer ***************/
+
+}

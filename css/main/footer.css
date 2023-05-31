@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #E3E6E6;
+}
+
+
+
+/*************** footer ***************/
+
+.footer {
+    height: auto;
+    width: 100%;
+    background-color: #213236;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 150px;
+}
+
+.info {
+    height: auto;
+    width: 30%;
+}
+
+.footer-head {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.infochild {
+    font-size: 16px;
+    color: #acabab;
+    line-height: 2;
+    text-decoration: none;
+}
+
+.infochild:hover {
+    color: white;
+}
+
+.follow {
+    height: auto;
+    width: 30%;
+}
+
+.foldiv {
+    height: auto;
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.folicon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 0px 10px;
+    font-size: 35px;
+    padding: 3px 7px;
+}
+
+.folicon:active {
+    transform: scale(0.9);
+}
+
+
+#facebook {
+    background-color: rgb(49, 129, 250);
+}
+
+
+#youtube {
+    background-color: white;
+}
+
+#instagram {
+    background-color: red;
+}
+
+
+.help {
+    height: auto;
+    width: 30%;
+}
+
+.helpchild {
+    font-size: 16px;
+    color: #acabab;
+    line-height: 2;
+}
+
+/**************** last ******************/
+
+.copyright {
+    height: auto;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+}

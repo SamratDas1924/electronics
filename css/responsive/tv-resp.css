@@ -1,0 +1,2187 @@
+
+/********** Responsive for max-width: 290px ***********/
+
+@media only screen and (max-width:290px) {
+
+    /***************** header  *******************/
+
+    .header {
+        height: 110px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 15%;
+        font-size: 1.5rem;
+        margin-top: 0.2rem;
+        margin-bottom: 55px;
+        margin-left: 1rem;
+    }
+
+    .search {
+        height: 30px;
+        width: 70%;
+        margin-top: -115px;
+        margin-left: 4rem;
+    }
+
+    .search-under {
+        width: 95%;
+    }
+
+    .search-icon {
+        width: 5%;
+    }
+
+    #serch-icon {
+        font-size: 1rem;
+        margin: 0.3rem;
+    }
+
+    .input {
+        height: 20px;
+        width: 100%;
+        border: none;
+        border-radius: 17px;
+        font-size: 0.8rem;
+        padding: 5px 0.5rem;
+        background-color: white;
+        margin: 5px 0px;
+    }
+    
+    
+    .input::placeholder {
+        font-size: 0.8rem;
+        font-style: italic;
+        color: rgb(123, 123, 123);
+        padding: 5px 2px;
+    }
+
+    .cart {
+        width: 28%;
+        margin-top: 0px;
+        margin-left: 12rem;
+    }
+
+    #wish {
+        font-size: 1.5rem;
+    }
+
+    .count {
+        height: 16px;
+        width: 16px;
+        font-size: 12px;
+        font-weight: 600;
+        margin-top: -30px;
+        margin-left: 15px;
+    }
+
+    #cart {
+        font-size: 1.5rem;
+    }
+
+    #noti {
+        font-size: 1.4rem;
+    }
+
+    .count2 {
+        height: 16px;
+        width: 24px;
+        border-radius: 10px;
+        font-size: 12px;
+        font-weight: 600;
+        margin-top: -35px;
+        margin-left: 10px;
+    }
+
+    .logo {
+        width: 45%;
+        margin-top: -70px;
+        margin-left: 1rem;
+    }
+
+    .logo-pic {
+        height: 50px;
+        margin-top: 10px;
+    }
+
+    .home {
+        width: 50%;
+        margin-top: -20px;
+        margin-left: 1rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 0.2rem;
+    }
+
+    .home-text {
+        font-size: 0.8rem;
+    }
+
+    .user {
+        width: 35%;
+        margin-top: -15px;
+        margin-left: 11rem;
+    }
+
+    .notifi {
+        width: 30%;
+    }
+
+    .account {
+        width: 60%;
+        margin-top: 7px;
+    }
+
+    #user {
+        font-size: 1rem;
+    }
+
+    .login {
+        font-size: 0.8rem;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 65%;
+    }
+
+    .catagory {
+        padding: 2rem 0rem 0rem 1rem
+    }
+
+    .side-nav-head {
+        font-size: 1rem;
+    }
+
+    .side-nav-remove {
+        height: 36px;
+        width: 36px;
+        font-size: 2rem;
+        margin-left: 2rem;
+        display: inline;
+        cursor: pointer;
+    }
+
+    .catagory-name {
+        font-size: 0.8rem;
+    }
+
+    li {
+        display: block;
+        margin: 1rem 0rem;
+    }
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 4rem;
+        left: 2rem;
+    }
+
+    #call {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+
+    .whatsapp {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 4rem;
+        right: 2rem;
+    }
+
+    #whatsapp {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+    /*********** up-arrow **************/
+
+    .up-arrow {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 1rem;
+        right: 1rem;
+    }
+
+    #arrow {
+        font-size: 1.6rem;
+        color: white;
+        padding: 0.5rem;
+    }
+
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 110px;
+    }
+
+    .product-under {
+        width: 100%;
+    }
+
+    .product-under-left {
+        width: 35%;
+        padding-left: 0.5rem;
+    }
+    
+    .left-head {
+        font-size: 0.8rem;
+    }
+
+    li {
+        margin: 0.5rem 0rem 0.5rem 0.3rem;
+    }
+
+    .price-head {
+        font-size: 0.6rem;
+    }
+
+    .discount-head {
+        font-size: 0.6rem;
+    }
+
+    .brand-name {
+        font-size: 0.6rem;
+    }
+
+    .product-under-right {
+        width: 65%;
+    }
+
+    .product-under-right-up {
+        padding: 10px 0.2rem;
+    }
+
+    .product-under-right-next {
+        display: block;
+        padding: 10px 0rem;
+    }
+
+    .brand-logo {
+        height: 20px;
+        padding: 0px;
+        margin-top: 1rem;
+    }
+    
+    #brand-logo {
+        height: 10px;
+        margin-top: -7px;
+    }
+
+    .right-head {
+        font-size: 0.8rem;
+        padding-left: 1rem;
+    }
+
+    .tv-pic {
+        margin: 0px auto;
+    }
+
+    #tv-pic {
+        height: 50px;
+    }
+
+    .view {
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        font-size: 14px;
+        color: black;
+        padding: 3px 4px;
+    }
+
+    .name {
+        font-size: 10px;
+        margin: 0.5rem;
+    }
+    
+    .pro-price {
+        font-size: 10px;
+    }
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 20px 0px 20px;
+    }
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.1rem;
+    }
+
+    .infochild {
+        font-size: 14px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 14px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 10px;
+    }
+
+}
+
+
+
+
+
+/************ Responsive for max-width: 380px ***********/
+
+
+@media only screen and (min-width:290px) and (max-width:380px) {
+
+        /***************** header  *******************/
+    
+        .header {
+            height: 70px;
+            width: 100%;
+            display: block;
+        }
+    
+        .all {
+            width: 15%;
+            font-size: 1.5rem;
+            margin-top: 0.2rem;
+            margin-bottom: 55px;
+            margin-left: 1.5rem;
+        }
+    
+        .search {
+            height: 30px;
+            width: 55%;
+            margin-top: -75px;
+            margin-left: 4rem;
+        }
+    
+        .search-under {
+            width: 95%;
+        }
+    
+        .search-icon {
+            width: 5%;
+        }
+    
+        #serch-icon {
+            font-size: 1rem;
+            margin: 0.3rem;
+        }
+    
+        .input {
+            height: 20px;
+            width: 100%;
+            border: none;
+            border-radius: 17px;
+            font-size: 0.8rem;
+            padding: 5px 0.8rem;
+            background-color: white;
+            margin: 5px 0px;
+        }
+        
+        
+        .input::placeholder {
+            font-size: 0.8rem;
+            font-style: italic;
+            color: rgb(123, 123, 123);
+            padding: 5px 2px;
+        }
+    
+        .cart {
+            width: 20%;
+            margin-top: -35px;
+            margin-left: 18rem;
+        }
+    
+        #wish {
+            font-size: 1.5rem;
+        }
+    
+        .count {
+            height: 16px;
+            width: 16px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-top: -30px;
+            margin-left: 15px;
+        }
+    
+        #cart {
+            font-size: 1.5rem;
+        }
+    
+        #noti {
+            font-size: 1.4rem;
+        }
+    
+        .count2 {
+            height: 16px;
+            width: 24px;
+            border-radius: 10px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-top: -35px;
+            margin-left: 10px;
+        }
+    
+        .logo {
+            width: 30%;
+            margin-top: -70px;
+            margin-left: 0.5rem;
+        }
+    
+        .logo-pic {
+            height: 40px;
+            margin-top: 10px;
+        }
+    
+        .home {
+            width: 35%;
+            margin-top: -50px;
+            margin-left: 8rem;
+        }
+    
+        body>div.header>div.home>ul>li {
+            margin: 0rem 0.2rem;
+        }
+    
+        .home-text {
+            font-size: 0.7rem;
+        }
+    
+        .user {
+            width: 35%;
+            margin-top: -15px;
+            margin-left: 16.8rem;
+        }
+    
+    
+        .notifi {
+            width: 30%;
+        }
+    
+        .account {
+            width: 70%;
+            margin-top: 3px;
+        }
+    
+        #user {
+            font-size: 0.9rem;
+        }
+    
+        .login {
+            font-size: 0.7rem;
+        }
+    
+    
+        /**************** side-navbar ********************/
+    
+        .side-nav {
+            width: 65%;
+        }
+    
+        .catagory {
+            padding: 2rem 0rem 0rem 1rem
+        }
+    
+        .side-nav-head {
+            font-size: 1.2rem;
+        }
+    
+        .side-nav-remove {
+            height: 36px;
+            width: 36px;
+            font-size: 2rem;
+            margin-left: 2rem;
+            display: inline;
+            cursor: pointer;
+        }
+    
+        .catagory-name {
+            font-size: 0.9rem;
+        }
+
+
+        /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 4rem;
+        left: 2rem;
+    }
+
+    #call {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+
+    .whatsapp {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 4rem;
+        right: 2rem;
+    }
+
+    #whatsapp {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+    /*********** up-arrow **************/
+
+    .up-arrow {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 1rem;
+        right: 1rem;
+    }
+
+    #arrow {
+        font-size: 1.6rem;
+        color: white;
+        padding: 0.5rem;
+    }
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 70px;
+    }
+
+    .product-under {
+        width: 100%;
+    }
+
+    .product-under-left {
+        width: 35%;
+        padding-left: 0.5rem;
+    }
+    
+    .left-head {
+        font-size: 0.9rem;
+    }
+
+    li {
+        margin: 0.5rem 0rem 0.5rem 0.3rem;
+    }
+
+    .price-head {
+        font-size: 0.7rem;
+    }
+
+    .discount-head {
+        font-size: 0.7rem;
+    }
+
+    .brand-name {
+        font-size: 0.7rem;
+    }
+
+    .product-under-right {
+        width: 65%;
+    }
+
+    .product-under-right-up {
+        padding: 10px 0.2rem;
+    }
+
+    .product-under-right-next {
+        display: block;
+        padding: 10px 0rem;
+    }
+
+    .brand-logo {
+        height: 30px;
+        padding: 2px;
+        margin-top: 1rem;
+    }
+    
+    #brand-logo {
+        height: 20px;
+    }
+
+    .right-head {
+        font-size: 1rem;
+        padding-left: 1rem;
+    }
+
+    .tv-pic {
+        margin: 0px auto;
+    }
+
+    #tv-pic {
+        height: 70px;
+    }
+
+    .view {
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        font-size: 14px;
+        color: black;
+        padding: 3px 4px;
+    }
+
+    .name {
+        font-size: 12px;
+        margin: 0.5rem;
+    }
+    
+    .pro-price {
+        font-size: 12px;
+    }
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 70px 0px 70px;
+    }
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.3rem;
+    }
+
+    .infochild {
+        font-size: 16px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+/************ Responsive for max-width: 420px ***********/
+
+
+
+@media only screen and (min-width:381px) and (max-width:420px) {
+
+    /***************** header  *******************/
+
+    .header {
+        height: 75px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 10%;
+        margin-top: 0.2rem;
+        font-size: 1.5rem;
+        margin-bottom: 55px;
+        margin-left: 2rem;
+    }
+
+    .search {
+        height: 30px;
+        width: 55%;
+        margin-top: -75px;
+        margin-left: 4.5rem;
+    }
+
+    .search-under {
+        width: 95%;
+    }
+
+    .search-icon {
+        width: 5%;
+    }
+
+    #serch-icon {
+        font-size: 1rem;
+        margin: 0.3rem;
+    }
+
+    .input {
+        height: 20px;
+        width: 100%;
+        border: none;
+        border-radius: 17px;
+        font-size: 0.8rem;
+        padding: 5px 0.8rem;
+        background-color: white;
+        margin: 5px 0px;
+    }
+    
+    
+    .input::placeholder {
+        font-size: 0.8rem;
+        font-style: italic;
+        color: rgb(123, 123, 123);
+        padding: 5px 2px;
+    }
+
+    .cart {
+        width: 20%;
+        margin-top: -35px;
+        margin-left: 20rem;
+    }
+
+    #wish {
+        font-size: 1.5rem;
+    }
+
+    .count {
+        height: 16px;
+        width: 16px;
+        font-size: 12px;
+        font-weight: 600;
+        margin-top: -30px;
+        margin-left: 15px;
+    }
+
+    #cart {
+        font-size: 1.5rem;
+    }
+
+    #noti {
+        font-size: 1.4rem;
+    }
+
+    .count2 {
+        height: 16px;
+        width: 24px;
+        border-radius: 10px;
+        font-size: 12px;
+        font-weight: 600;
+        margin-top: -35px;
+        margin-left: 10px;
+    }
+
+    .logo {
+        width: 30%;
+        margin-top: -70px;
+        margin-left: 0.5rem;
+    }
+
+    .logo-pic {
+        height: 40px;
+        margin-top: 10px;
+    }
+
+    .home {
+        width: 35%;
+        margin-top: -50px;
+        margin-left: 9rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 0.3rem;
+    }
+
+    .home-text {
+        font-size: 0.8rem;
+    }
+
+    .user {
+        width: 30%;
+        margin-top: -10px;
+        margin-left: 19rem;
+    }
+
+    .notifi {
+        width: 35%;
+    }
+
+    .account {
+        width: 65%;
+    }
+
+    #user {
+        font-size: 1rem;
+    }
+
+    .login {
+        font-size: 0.8rem;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 55%;
+    }
+
+    .catagory {
+        padding: 2rem 0rem 0rem 1rem
+    }
+
+    .side-nav-head {
+        font-size: 1.2rem;
+    }
+
+    .side-nav-remove {
+        height: 36px;
+        width: 36px;
+        font-size: 2rem;
+        margin-left: 2rem;
+        display: inline;
+        cursor: pointer;
+    }
+
+    .catagory-name {
+        font-size: 0.9rem;
+    }
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 4rem;
+        left: 2rem;
+    }
+
+    #call {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+
+    .whatsapp {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 4rem;
+        right: 2rem;
+    }
+
+    #whatsapp {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+    /*********** up-arrow **************/
+
+    .up-arrow {
+        height: 2.5rem;
+        width: 2.5rem;
+        bottom: 1rem;
+        right: 1rem;
+    }
+
+    #arrow {
+        font-size: 1.6rem;
+        color: white;
+        padding: 0.5rem;
+    }
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 75px;
+    }
+
+    .product-under {
+        width: 100%;
+    }
+
+    .product-under-left {
+        width: 35%;
+        padding-left: 0.5rem;
+    }
+    
+    .left-head {
+        font-size: 1rem;
+    }
+
+    li {
+        margin: 0.5rem 0rem 0.5rem 0.3rem;
+    }
+
+    .price-head {
+        font-size: 0.8rem;
+    }
+
+    .discount-head {
+        font-size: 0.8rem;
+    }
+
+    .brand-name {
+        font-size: 0.8rem;
+    }
+
+    .product-under-right {
+        width: 65%;
+    }
+
+    .product-under-right-up {
+        padding: 10px 0.2rem;
+    }
+
+    .product-under-right-next {
+        display: block;
+        padding: 10px 0rem;
+    }
+
+    .brand-logo {
+        height: 30px;
+        padding: 2px;
+        margin-top: 1rem;
+    }
+    
+    #brand-logo {
+        height: 20px;
+    }
+
+    .right-head {
+        font-size: 1rem;
+        padding-left: 1rem;
+    }
+
+    .tv-pic {
+        margin: 0px auto;
+    }
+
+    #tv-pic {
+        height: 70px;
+    }
+
+    .view {
+        height: 20px;
+        width: 20px;
+        border-radius: 50%;
+        font-size: 14px;
+        color: black;
+        padding: 3px 4px;
+    }
+
+    .name {
+        font-size: 12px;
+        margin: 0.5rem;
+    }
+    
+    .pro-price {
+        font-size: 12px;
+    }
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 70px 0px 70px;
+    }
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.3rem;
+    }
+
+    .infochild {
+        font-size: 16px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 550px ***********/
+
+
+
+@media only screen and (min-width:421px) and (max-width:550px) {
+
+    /***************** header  *******************/
+
+    .header {
+        height: 90px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 10%;
+        margin-top: 0.2rem;
+        font-size: 1.5rem;
+        margin-bottom: 70px;
+        margin-left: 3rem;
+    }
+
+    .search {
+        height: 30px;
+        width: 50%;
+        margin-top: -85px;
+        margin-left: 7rem;
+    }
+
+    .input {
+        height: 20px;
+        width: 100%;
+        border: none;
+        border-radius: 17px;
+        font-size: 0.8rem;
+        padding: 5px 0.8rem;
+        background-color: white;
+        margin: 5px 0px;
+    }
+    
+    
+    .input::placeholder {
+        font-size: 0.8rem;
+        font-style: italic;
+        color: rgb(123, 123, 123);
+        padding: 5px 2px;
+    }
+
+    .cart {
+        width: 24%;
+        margin-top: -35px;
+        margin-left: 26rem;
+    }
+
+    .logo {
+        width: 25%;
+        margin-top: -70px;
+        margin-left: 1rem;
+    }
+
+    .logo-pic {
+        height: 50px;
+    }
+
+    .home {
+        width: 32%;
+        margin-top: -55px;
+        margin-left: 11rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 0.5rem;
+    }
+
+    .home-text {
+        font-size: 0.9rem;
+    }
+
+    #user {
+        font-size: 1.2rem;
+    }
+
+    .user {
+        width: 26%;
+        margin-top: -10px;
+        margin-left: 25rem;
+    }
+
+    .notifi {
+        width: 40%;
+    }
+
+    .account {
+        width: 60%;
+        margin-top: 5px;
+    }
+
+    .login {
+        font-size: 0.9rem;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 45%;
+    }
+
+    .catagory {
+        padding: 2rem 0rem 0rem 1rem
+    }
+
+    .side-nav-head {
+        font-size: 1.2rem;
+    }
+
+    .side-nav-remove {
+        height: 36px;
+        width: 36px;
+        font-size: 2rem;
+        margin-left: 2rem;
+        display: inline;
+        cursor: pointer;
+    }
+
+    .catagory-name {
+        font-size: 0.9rem;
+    }
+
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    #call {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+
+    .whatsapp {
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    #whatsapp {
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+
+    /*********** up-arrow **************/
+
+    .up-arrow {
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    #arrow {
+        font-size: 1.6rem;
+        color: white;
+        padding: 0.5rem;
+    }
+
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 90px;
+    }
+
+    .product-under {
+        width: 100%;
+    }
+
+    .product-under-left {
+        width: 25%;
+        padding-left: 1rem;
+    }
+    
+    .left-head {
+        font-size: 0.9rem;
+    }
+
+    li {
+        margin: 0.5rem 0rem 0.5rem 0.5rem;
+    }
+
+    .price-head {
+        font-size: 0.7rem;
+    }
+
+    .discount-head {
+        font-size: 0.7rem;
+    }
+
+    .brand-name {
+        font-size: 0.7rem;
+    }
+
+    .product-under-right {
+        width: 75%;
+    }
+
+    .product-under-right-up {
+        padding: 10px 0.5rem;
+    }
+
+    .product-under-right-next {
+        padding: 10px 0rem;
+    }
+
+    .brand-logo {
+        height: 50px;
+        padding: 10px 5px;
+        margin-top: 1rem;
+    }
+    
+    #brand-logo {
+        height: 30px;
+    }
+
+    .right-head {
+        font-size: 1rem;
+        padding-left: 1rem;
+    }
+
+    #tv-pic {
+        height: 50px;
+    }
+
+    .view {
+        height: 24px;
+        width: 24px;
+        font-size: 1rem;
+        padding: 3px 4px;
+    }
+
+    .name {
+        font-size: 10px;
+    }
+    
+    .pro-price {
+        font-size: 10px;
+    }
+
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 20px;
+    }
+
+    .info {
+        width: 30%;
+    }
+
+    .follow {
+        width: 30%;
+    }
+
+    .help {
+        width: 35%;
+    }
+
+    .footer-head {
+        font-size: 18px;
+    }
+
+    .folicon {
+        height: 30px;
+        width: 30px;
+        margin: 0px 10px;
+        font-size: 20px;
+        padding: 2px 5px;
+    }
+
+    .infochild {
+        font-size: 14px;
+    }
+
+    .helpchild {
+        font-size: 12px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 780px ***********/
+
+
+
+@media only screen and (min-width:561px) and (max-width:780px) {
+
+    /***************** header  *******************/
+
+    .header {
+        height: 100px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 10%;
+        margin-bottom: 70px;
+        margin-left: 6rem;
+        margin-top: 0.3rem;
+    }
+
+    .search {
+        width: 50%;
+        margin-top: -95px;
+        margin-left: 12rem;
+    }
+
+    .cart {
+        width: 16%;
+        margin-top: -45px;
+        margin-left: 39rem;
+    }
+
+    .logo {
+        width: 25%;
+        margin-top: -80px;
+        margin-left: 2rem;
+    }
+
+    .home {
+        width: 32%;
+        margin-top: -60px;
+        margin-left: 17rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 1rem;
+    }
+
+    .user {
+        width: 25%;
+        margin-top: 10px;
+        margin-left: 38rem;
+    }
+
+    .notifi {
+        width: 30%;
+    }
+
+    .account {
+        width: 70%;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 44%;
+    }
+
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 3rem;
+        width: 3rem;
+    }
+
+    #call {
+        font-size: 1.8rem;
+        padding: 0.6rem;
+    }
+
+
+    .whatsapp {
+        height: 3rem;
+        width: 3rem;
+    }
+
+    #whatsapp {
+        font-size: 1.8rem;
+        padding: 0.6rem;
+    }
+
+    /*********** up-arrow **************/
+
+    .up-arrow {
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    #arrow {
+        font-size: 1.6rem;
+        color: white;
+        padding: 0.5rem;
+    }
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 100px;
+    }
+
+    .product-under-left {
+        width: 25%;
+        padding-left: 1rem;
+    }
+    
+    .left-head {
+        font-size: 1rem;
+    }
+
+    .price-head {
+        font-size: 0.8rem;
+    }
+
+    .discount-head {
+        font-size: 0.8rem;
+    }
+
+    .brand-name {
+        font-size: 0.8rem;
+    }
+
+    .product-under-right {
+        width: 75%;
+    }
+
+    .product-under-right-next {
+        padding: 20px 1rem;
+    }
+
+    .brand-logo {
+        height: 60px;
+        padding: 10px 5px;
+    }
+    
+    #brand-logo {
+        height: 40px;
+    }
+
+    .right-head {
+        font-size: 1.2rem;
+    }
+
+    #tv-pic {
+        height: 55px;
+    }
+
+    .name {
+        font-size: 12px;
+    }
+    
+    .pro-price {
+        font-size: 12px;
+    }
+
+    .view {
+        height: 30px;
+        width: 30px;
+        font-size: 1.2rem;
+        padding: 3px 4px;
+    }
+
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+    .footer-head {
+        font-size: 20px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 30px;
+        padding: 1px 5px;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 830px ***********/
+
+
+@media only screen and (min-width:781px) and (max-width:830px) {
+
+    /***************** header  *******************/
+
+    .header {
+        height: 100px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 10%;
+        margin-bottom: 70px;
+        margin-left: 6rem;
+        margin-top: 0.3rem;
+    }
+
+    .search {
+        width: 50%;
+        margin-top: -95px;
+        margin-left: 12.5rem;
+    }
+
+    .cart {
+        width: 14%;
+        margin-top: -45px;
+        margin-left: 43rem;
+    }
+
+    .logo {
+        width: 23%;
+        margin-top: -80px;
+        margin-left: 2rem;
+    }
+
+    .home {
+        width: 30%;
+        margin-top: -60px;
+        margin-left: 18rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 1rem;
+    }
+
+    .user {
+        width: 20%;
+        margin-top: 15px;
+        margin-left: 41rem;
+    }
+
+    .notifi {
+        width: 35%;
+    }
+
+    .account {
+        width: 65%;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 41%;
+    }
+
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 3rem;
+        width: 3rem;
+    }
+
+    #call {
+        font-size: 1.8rem;
+        padding: 0.6rem;
+    }
+
+
+    .whatsapp {
+        height: 3rem;
+        width: 3rem;
+    }
+
+    #whatsapp {
+        font-size: 1.8rem;
+        padding: 0.6rem;
+    }
+
+    /*********** up-arrow **************/
+
+    .up-arrow {
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+
+    #arrow {
+        font-size: 1.6rem;
+        color: white;
+        padding: 0.5rem;
+    }
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 100px;
+    }
+
+    .product-under-left {
+        width: 25%;
+        padding-left: 1rem;
+    }
+    
+    .left-head {
+        font-size: 1rem;
+    }
+
+    .price-head {
+        font-size: 0.8rem;
+    }
+
+    .discount-head {
+        font-size: 0.8rem;
+    }
+
+    .brand-name {
+        font-size: 0.8rem;
+    }
+
+    .product-under-right {
+        width: 75%;
+    }
+
+    .product-under-right-up {
+        padding: 20px 1rem;
+    }
+
+    .product-under-right-next {
+        padding: 20px 1rem;
+    }
+
+    .brand-logo {
+        height: 60px;
+    }
+    
+    #brand-logo {
+        height: 40px;
+    }
+
+    .right-head {
+        font-size: 1.2rem;
+    }
+
+    #tv-pic {
+        height: 60px;
+    }
+
+    .name {
+        font-size: 12px;
+    }
+    
+    .pro-price {
+        font-size: 12px;
+    }
+
+    .view {
+        height: 30px;
+        width: 30px;
+        font-size: 1.2rem;
+        padding: 3px 4px;
+    }
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+    .footer-head {
+        font-size: 20px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 30px;
+        padding: 1px 5px;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 920px ***********/
+
+
+@media only screen and (min-width:831px) and (max-width:920px) {
+
+
+    /***************** header  *******************/
+
+    .header {
+        height: 100px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 20%;
+        margin-bottom: 70px;
+        margin-left: 7rem;
+        margin-top: 0.3rem;
+    }
+
+    .search {
+        width: 50%;
+        margin-top: -95px;
+        margin-left: 14rem;
+    }
+
+    .cart {
+        width: 12%;
+        margin-top: -45px;
+        margin-left: 48rem;
+    }
+
+    .logo {
+        width: 23%;
+        margin-top: -80px;
+        margin-left: 2rem;
+    }
+
+    .home {
+        width: 40%;
+        margin-top: -60px;
+        margin-left: 18rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 2rem;
+    }
+
+    .user {
+        width: 18%;
+        margin-top: 15px;
+        margin-left: 46rem;
+    }
+
+    .notifi {
+        width: 30%;
+    }
+
+    .account {
+        width: 65%;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 38%;
+    }
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+
+    #call {
+        font-size: 2rem;
+    }
+
+    .whatsapp {
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+
+    #whatsapp {
+        font-size: 2rem;
+    }
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 100px;
+    }
+
+    .product-under-left {
+        width: 25%;
+    }
+    
+    .left-head {
+        font-size: 1rem;
+    }
+
+    .price-head {
+        font-size: 0.8rem;
+    }
+
+    .discount-head {
+        font-size: 0.8rem;
+    }
+
+    .brand-name {
+        font-size: 0.8rem;
+    }
+
+    .product-under-right {
+        width: 75%;
+    }
+
+    .brand-logo {
+        height: 60px;
+    }
+    
+    #brand-logo {
+        height: 40px;
+    }
+
+    .right-head {
+        font-size: 1.2rem;
+    }
+
+    #tv-pic {
+        height: 60px;
+    }
+
+    .view {
+        height: 30px;
+        width: 30px;
+        font-size: 1.2rem;
+        padding: 3px 4px;
+    }
+
+    .name {
+        font-size: 0.8rem;
+    }
+    
+    .pro-price {
+        font-size: 0.8rem;
+    }
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+}
+
+
+
+
+
+/********** Responsive for max-width: 1030px ***********/
+
+
+@media only screen and (min-width:921px) and (max-width:1030px) {
+
+    /***************** header  *******************/
+
+    .header {
+        height: 100px;
+        width: 100%;
+        display: block;
+    }
+
+    .all {
+        width: 20%;
+        margin-bottom: 70px;
+        margin-left: 9rem;
+        margin-top: 0.4rem;
+    }
+
+    .search {
+        width: 50%;
+        margin-top: -100px;
+        margin-left: 15rem;
+    }
+
+    .cart {
+        width: 12%;
+        margin-top: -45px;
+        margin-left: 51rem;
+    }
+
+    .logo {
+        width: 20%;
+        margin-top: -80px;
+        margin-left: 3rem;
+    }
+
+    .home {
+        width: 40%;
+        margin-top: -60px;
+        margin-left: 18rem;
+    }
+
+    body>div.header>div.home>ul>li {
+        margin: 0rem 2rem;
+    }
+
+    .user {
+        width: 15%;
+        margin-top: 20px;
+        margin-left: 50rem;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 35%;
+    }
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+
+    #call {
+        font-size: 2rem;
+    }
+
+    .whatsapp {
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+
+    #whatsapp {
+        font-size: 2rem;
+    }
+
+    /****************** product  ***********************/
+    .product {
+        margin-top: 100px;
+    }
+
+    .product-under-left {
+        width: 25%;
+    }
+    
+    .left-head {
+        font-size: 1rem;
+    }
+
+    .price-head {
+        font-size: 0.8rem;
+    }
+
+    .discount-head {
+        font-size: 0.8rem;
+    }
+
+    .brand-name {
+        font-size: 0.8rem;
+    }
+
+    .product-under-right {
+        width: 75%;
+    }
+
+    .brand-logo {
+        height: 70px;
+    }
+    
+    #brand-logo {
+        height: 50px;
+    }
+
+    .right-head {
+        font-size: 1.2rem;
+    }
+
+    #tv-pic {
+        height: 70px;
+    }
+
+    .name {
+        font-size: 0.8rem;
+    }
+    
+    .pro-price {
+        font-size: 0.8rem;
+    }
+
+    .view {
+        height: 30px;
+        width: 30px;
+        font-size: 1.2rem;
+        padding: 3px 4px;
+    }
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+    
+
+}
+
+
+
+
+
+
+
+
+/********** Responsive for max-width: 1290px ***********/
+
+
+@media only screen and (min-width:1031px) and (max-width:1290px) {
+
+    /***************** header  *******************/
+
+    .logo {
+        height: 50px;
+        width: 14%;
+        margin: 0px 1rem;
+    }
+
+    .home {
+        width: 17%;
+    }
+
+    .home-text {
+        font-size: 1rem;
+    }
+
+    .search {
+        width: 25%;
+    }
+
+    .cart {
+        margin: 1rem 1rem 1rem 2rem;
+    }
+
+    .user {
+        width: 13%;
+    }
+
+
+    /**************** side-navbar ********************/
+
+    .side-nav {
+        width: 28%;
+    }
+
+    /******************** call and whatsapp  ********************/
+
+    .call {
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+
+    #call {
+        font-size: 2rem;
+    }
+
+    .whatsapp {
+        height: 3.5rem;
+        width: 3.5rem;
+    }
+
+    #whatsapp {
+        font-size: 2rem;
+    }
+
+
+    /****************** product  ***********************/
+
+    .left-head {
+        font-size: 1.1rem;
+    }
+
+    .price-head {
+        font-size: 0.9rem;
+    }
+
+    .discount-head {
+        font-size: 0.9rem;
+    }
+
+    .brand-name {
+        font-size: 0.9rem;
+    }
+
+    .brand-logo {
+        height: 90px;
+    }
+    
+    #brand-logo {
+        height: 70px;
+    }
+
+    #tv-pic {
+        height: 100px;
+    }
+
+    .name {
+        font-size: 0.9rem;
+    }
+    
+    .pro-price {
+        font-size: 0.9rem;
+    }
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+}

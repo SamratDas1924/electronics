@@ -1,0 +1,340 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #E3E6E6;
+}
+
+
+
+
+ /*********************** product *********************/
+
+.product {
+    height: auto;
+    width: 100%;
+    background-color: rgb(239, 237, 237);
+    margin-top: 60px;
+}
+
+.product-under {
+    height: auto;
+    width: 80%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.product-under-left {
+    width: 20%;
+    padding-left: 2rem;
+    border-right: 1px solid rgb(240, 240, 240);
+}
+
+.price {
+    height: auto;
+    width: 100%;
+    padding: 2rem 0rem 1rem 0rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+.left-head {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    display: block;
+    margin: 1rem 0rem 1rem 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.price-head {
+    font-size: 1rem;
+    color: rgb(42, 42, 42);
+}
+
+.discount {
+    height: auto;
+    width: 100%;
+    padding: 2rem 0rem 1rem 0rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+.discount-head {
+    font-size: 1rem;
+    color: rgb(42, 42, 42);
+}
+
+
+.brands {
+    height: auto;
+    width: 100%;
+    padding: 2rem 0rem 1rem 0rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+.brand-name {
+    font-size: 1rem;
+    color: rgb(42, 42, 42);
+}
+
+.product-under-right {
+    width: 80%;
+}
+
+.product-under-right-up {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 20px 2rem;
+}
+
+.brand-logo {
+    height: 100px;
+    width: 100%;
+    margin-top: 2rem;
+    border: 1px solid rgb(240, 240, 240);
+    padding: 10px;
+}
+
+#brand-logo {
+    height: 80px;
+    width: 100%;
+}
+
+.right-under {
+    width: 50%;
+}
+
+.right-head {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: rgb(43, 43, 44);
+}
+
+
+.product-under-right-next {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    padding: 20px 2rem;
+}
+
+.product-under-right-next2 {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-under-right-box {
+    height: auto;
+    width: 50%;
+    transition: all 0.2s;
+}
+
+.product-under-right-box:hover {
+    border: 1px solid rgb(155, 155, 155);
+}
+
+.mob-pic {
+    height: auto;
+    width: 50%;
+    margin: 10px auto;
+}
+
+#mob-pic {
+    height: 130px;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+}
+
+.tv-pic {
+    height: auto;
+    width: 80%;
+    margin: 10px auto;
+}
+
+#tv-pic {
+    height: 120px;
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+}
+
+.ref-pic {
+    height: auto;
+    width: 35%;
+    margin: 10px auto;
+}
+
+#ref-pic {
+    height: 180px;
+    width: 100%;
+}
+
+.wm-pic {
+    height: auto;
+    width: 50%;
+    margin: 10px auto;
+}
+
+#wm-pic {
+    height: 150px;
+    width: 100%;
+}
+
+.quick {
+    height: auto;
+    width: 50%;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.view {
+    height: 34px;
+    width: 34px;
+    border-radius: 50%;
+    font-size: 1.2rem;
+    color: black;
+    padding: 6px 7px;
+    transition: all 0.8s;
+}
+
+.view:hover {
+    color: white;
+    background-color: red;
+}
+
+.view:active {
+    transform: scale(0.7);
+}
+
+.name {
+    font-size: 1rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+.pro-price {
+    font-size: 1rem;
+    text-align: center;
+    color: red;
+}
+
+
+
+/*************** footer ***************/
+
+.footer {
+    height: auto;
+    width: 100%;
+    background-color: #213236;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 150px;
+}
+
+.info {
+    height: auto;
+    width: 30%;
+}
+
+.footer-head {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.infochild {
+    font-size: 16px;
+    color: #acabab;
+    line-height: 2;
+}
+
+.infochild:hover {
+    color: white;
+}
+
+.follow {
+    height: auto;
+    width: 30%;
+}
+
+.foldiv {
+    height: auto;
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.folicon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 0px 10px;
+    font-size: 35px;
+    padding: 3px 7px;
+}
+
+.folicon:active {
+    transform: scale(0.9);
+}
+
+
+#facebook {
+    background-color: rgb(49, 129, 250);
+}
+
+
+#youtube {
+    background-color: white;
+}
+
+#instagram {
+    background-color: red;
+}
+
+
+.help {
+    height: auto;
+    width: 30%;
+}
+
+.helpchild {
+    font-size: 16px;
+    color: #acabab;
+    line-height: 2;
+}
+
+/**************** last ******************/
+
+.copyright {
+    height: auto;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+}

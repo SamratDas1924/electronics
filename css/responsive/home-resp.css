@@ -1,0 +1,2984 @@
+/********** Responsive for max-width: 290px ***********/
+
+@media only screen and (max-width:290px) {
+
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 220px;
+        width: 100%;
+        margin-top: 105px;
+    }
+
+    #caritem {
+        margin-top: -120px;
+        margin-bottom: -20px;
+    }
+
+    #carname {
+        font-size: 0.9rem;
+        font-weight: 900;
+        color: white;
+        margin: 190px 0px 0px 1rem;
+    }
+
+    #cardis {
+        font-size: 0.7rem;
+        font-weight: 600;
+        color: white;
+        margin: -20px 0px 0px 1rem;
+    }
+
+    #shop {
+        font-size: 0.5rem;
+        height: 20px;
+        width: 4rem;
+        margin: -20px 0px 0px 1rem;
+        padding: 4px 12px;
+    }
+
+    #carpic {
+        height: 80px;
+        width: 8rem;
+        margin: 180px 1rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        display: none;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        display: none;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        display: none;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        display: none;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        display: none;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        display: none;
+    }
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    #besttext {
+        font-size: 0.8rem;
+        padding: 1.5rem 2rem;
+        text-align: center;
+    }
+
+    .allmob {
+        padding: 0rem 2rem;
+    }
+
+    .mobname {
+        font-size: 10px;
+    }
+
+    .mobpic {
+        height: 80px;
+    }
+
+    .mobprice {
+        font-size: 0.7rem;
+    }
+
+    #shop1 {
+        font-size: 0.6rem;
+        height: 20px;
+        width: 4rem;
+        padding: 3px 0.5rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        display: none;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        display: none;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        display: none;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        display: none;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        display: none;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        display: none;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .alltv {
+        padding: 0rem 2rem;
+    }
+
+    .tvname {
+        font-size: 10px;
+    }
+
+    .tvprice {
+        font-size: 0.7rem;
+    }
+
+    .tvpic {
+        height: 55px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        display: none;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        display: none;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        display: none;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        display: none;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        display: none;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        display: none;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .allref {
+        padding: 0rem 2rem;
+    }
+
+    .refname {
+        font-size: 10px;
+    }
+
+    .refprice {
+        font-size: 0.7rem;
+    }
+
+    .refpic {
+        height: 90px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        display: none;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        display: none;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        display: none;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        display: none;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        display: none;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        display: none;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .allwm {
+        padding: 0rem 2rem;
+    }
+
+    .wmname {
+        font-size: 10px;
+    }
+
+    .wmprice {
+        font-size: 0.7rem;
+    }
+
+    .wmpic {
+        height: 60px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        display: none;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        display: none;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        display: none;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        display: none;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        display: none;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        display: none;
+    }
+
+
+}
+
+
+
+
+
+
+
+/************ Responsive for max-width: 380px ***********/
+
+
+@media only screen and (min-width:291px) and (max-width:380px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 250px;
+        width: 100%;
+        margin-top: 70px;
+    }
+
+    #caritem {
+        margin-top: -110px;
+        margin-bottom: -10px;
+    }
+
+    #carname {
+        font-size: 0.8rem;
+        font-weight: 900;
+        color: white;
+        margin: 190px 0px 0px 3.5rem;
+    }
+
+    #cardis {
+        font-size: 0.6rem;
+        font-weight: 600;
+        color: white;
+        margin: -20px 0px 0px 3.5rem;
+    }
+
+    #shop {
+        font-size: 0.5rem;
+        height: 20px;
+        width: 4rem;
+        margin: -20px 0px 0px 3.5rem;
+        padding: 4px 12px;
+    }
+
+    #carpic {
+        height: 80px;
+        width: 7.5rem;
+        margin: 180px 3.5rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 30px;
+        width: 30px;
+        margin-top: -110px;
+        margin-left: -11rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.2rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 30px;
+        width: 30px;
+        margin-top: -110px;
+        margin-left: 9.1rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.2rem;
+    }
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    #besttext {
+        font-size: 0.8rem;
+        text-align: center;
+        padding: 1.5rem 2rem;
+    }
+
+    .mobname {
+        font-size: 10px;
+    }
+
+    .mobpic {
+        height: 110px;
+    }
+
+    .mobprice {
+        font-size: 0.8rem;
+    }
+
+    #shop1 {
+        font-size: 0.6rem;
+        height: 20px;
+        width: 4rem;
+        padding: 3px 0.5rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -160px;
+        margin-left: -150px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -160px;
+        margin-left: 110px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .tvname {
+        font-size: 10px;
+    }
+
+    .tvprice {
+        font-size: 0.8rem;
+    }
+
+    .tvpic {
+        height: 80px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -150px;
+        margin-left: -150px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -150px;
+        margin-left: 110px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .allref {
+        padding: 0rem 3rem;
+    }
+
+    .refname {
+        font-size: 10px;
+    }
+
+    .refprice {
+        font-size: 0.8rem;
+    }
+
+    .refpic {
+        height: 190px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -210px;
+        margin-left: -160px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -210px;
+        margin-left: 120px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .wmname {
+        font-size: 10px;
+    }
+
+    .wmprice {
+        font-size: 0.8rem;
+    }
+
+    .wmpic {
+        height: 90px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -170px;
+        margin-left: -150px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -170px;
+        margin-left: 110px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+}
+
+
+
+
+
+
+
+/************ Responsive for max-width: 400px ***********/
+
+
+@media only screen and (min-width:381px) and (max-width:400px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 250px;
+        width: 100%;
+        margin-top: 70px;
+    }
+
+    #caritem {
+        margin-top: -110px;
+        margin-bottom: -10px;
+    }
+
+    #carname {
+        font-size: 0.8rem;
+        font-weight: 900;
+        color: white;
+        margin: 190px 0px 0px 3.5rem;
+    }
+
+    #cardis {
+        font-size: 0.6rem;
+        font-weight: 600;
+        color: white;
+        margin: -20px 0px 0px 3.5rem;
+    }
+
+    #shop {
+        font-size: 0.5rem;
+        height: 20px;
+        width: 4rem;
+        margin: -20px 0px 0px 3.5rem;
+        padding: 4px 12px;
+    }
+
+    #carpic {
+        height: 80px;
+        width: 7.5rem;
+        margin: 180px 3.5rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 30px;
+        width: 30px;
+        margin-top: -110px;
+        margin-left: -11rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.2rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 30px;
+        width: 30px;
+        margin-top: -110px;
+        margin-left: 9.1rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.2rem;
+    }
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    #besttext {
+        font-size: 0.9rem;
+        text-align: center;
+        padding: 1.5rem 2rem;
+    }
+
+    .mobname {
+        font-size: 0.7rem;
+    }
+
+    .mobpic {
+        height: 110px;
+    }
+
+    .mobprice {
+        font-size: 0.8rem;
+    }
+
+    #shop1 {
+        font-size: 0.6rem;
+        height: 20px;
+        width: 4rem;
+        padding: 3px 0.5rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -160px;
+        margin-left: -150px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -160px;
+        margin-left: 110px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .tvname {
+        font-size: 0.7rem;
+    }
+
+    .tvprice {
+        font-size: 0.8rem;
+    }
+
+    .tvpic {
+        height: 80px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -150px;
+        margin-left: -150px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -150px;
+        margin-left: 110px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .allref {
+        padding: 0rem 3rem;
+    }
+
+    .refname {
+        font-size: 0.7rem;
+    }
+
+    .refprice {
+        font-size: 0.8rem;
+    }
+
+    .refpic {
+        height: 190px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -210px;
+        margin-left: -160px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -210px;
+        margin-left: 120px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .wmname {
+        font-size: 0.7rem;
+    }
+
+    .wmprice {
+        font-size: 0.8rem;
+    }
+
+    .wmpic {
+        height: 110px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -170px;
+        margin-left: -150px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -170px;
+        margin-left: 110px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/************ Responsive for max-width: 420px ***********/
+
+
+
+@media only screen and (min-width:401px) and (max-width:420px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 250px;
+        width: 100%;
+        margin-top: 75px;
+    }
+
+    #caritem {
+        margin-top: -110px;
+        margin-bottom: -10px;
+    }
+
+    #carname {
+        font-size: 0.9rem;
+        font-weight: 900;
+        color: white;
+        margin: 190px 0px 0px 4rem;
+    }
+
+    #cardis {
+        font-size: 0.7rem;
+        font-weight: 600;
+        color: white;
+        margin: -20px 0px 0px 4rem;
+    }
+
+    #shop {
+        font-size: 0.5rem;
+        height: 20px;
+        width: 4rem;
+        margin: -20px 0px 0px 4rem;
+        padding: 4px 12px;
+    }
+
+    #carpic {
+        height: 80px;
+        width: 9rem;
+        margin: 180px 4rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -110px;
+        margin-left: -12.5rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -110px;
+        margin-left: 10rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    #besttext {
+        font-size: 1rem;
+        text-align: center;
+        padding: 1.5rem 2rem;
+    }
+
+    .mobname {
+        font-size: 0.7rem;
+    }
+
+    .mobpic {
+        height: 130px;
+    }
+
+    .mobprice {
+        font-size: 0.8rem;
+    }
+
+    #shop1 {
+        font-size: 0.6rem;
+        height: 20px;
+        width: 4rem;
+        padding: 3px 0.5rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -175px;
+        margin-left: -170px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -175px;
+        margin-left: 130px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .tvname {
+        font-size: 0.7rem;
+    }
+
+    .tvprice {
+        font-size: 0.8rem;
+    }
+
+    .tvpic {
+        height: 90px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -155px;
+        margin-left: -170px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -155px;
+        margin-left: 130px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .refname {
+        font-size: 0.7rem;
+    }
+
+    .refprice {
+        font-size: 0.8rem;
+    }
+
+    .refpic {
+        height: 200px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -210px;
+        margin-left: -170px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -210px;
+        margin-left: 130px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+    }
+
+    .wmname {
+        font-size: 0.7rem;
+    }
+
+    .wmprice {
+        font-size: 0.8rem;
+    }
+
+    .wmpic {
+        height: 140px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -190px;
+        margin-left: -170px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -190px;
+        margin-left: 130px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 550px ***********/
+
+
+
+@media only screen and (min-width:421px) and (max-width:550px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 300px;
+        width: 100%;
+        margin-top: 90px;
+    }
+
+    #caritem {
+        margin-top: -100px;
+        margin-bottom: -20px;
+    }
+
+    #carname {
+        font-size: 1rem;
+        font-weight: 900;
+        color: white;
+        margin: 200px 0px 0px 5rem;
+    }
+
+    #cardis {
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: white;
+        margin: -15px 0px 0px 5rem;
+    }
+
+    #shop {
+        font-size: 0.7rem;
+        height: 26px;
+        width: 5rem;
+        margin: -15px 0px 0px 5rem;
+        padding: 5px 12.5px;
+    }
+
+    #carpic {
+        height: 130px;
+        width: 13rem;
+        margin: 180px 5rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -125px;
+        margin-left: -16rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -125px;
+        margin-left: 13.5rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    #besttext {
+        font-size: 1.1rem;
+        text-align: center;
+        padding: 1.5rem 2rem;
+    }
+
+    .mobname {
+        font-size: 0.6rem;
+    }
+
+    .mobpic {
+        height: 100px;
+    }
+
+    .mobprice {
+        font-size: 0.8rem;
+    }
+
+    #shop1 {
+        font-size: 0.7rem;
+        height: 24px;
+        width: 5rem;
+        padding: 4px 0.5rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -165px;
+        margin-left: -230px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -165px;
+        margin-left: 190px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .tvname {
+        font-size: 0.6rem;
+    }
+
+    .tvprice {
+        font-size: 0.8rem;
+    }
+
+    .tvpic {
+        height: 70px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -150px;
+        margin-left: -230px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -150px;
+        margin-left: 190px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .refname {
+        font-size: 0.6rem;
+    }
+
+    .refprice {
+        font-size: 0.8rem;
+    }
+
+    .refpic {
+        height: 160px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -200px;
+        margin-left: -230px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -200px;
+        margin-left: 190px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 100%;
+        padding: 0rem 0rem 1rem 0rem;
+        margin: 0rem;
+        border-bottom: 1px solid rgb(222, 220, 220);
+    }
+
+    .wmname {
+        font-size: 0.6rem;
+    }
+
+    .wmprice {
+        font-size: 0.8rem;
+    }
+
+    .wmpic {
+        height: 120px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 40px;
+        width: 40px;
+        margin-top: -180px;
+        margin-left: -230px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 1.5rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 40px;
+        width: 40px;
+        margin-top: -180px;
+        margin-left: 190px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 1.5rem;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 780px ***********/
+
+
+
+@media only screen and (min-width:551px) and (max-width:780px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 510px;
+        width: 100%;
+        margin-top: 100px;
+    }
+
+    #caritem {
+        margin-top: -30px;
+        margin-bottom: 30px;
+    }
+
+    #carname {
+        font-size: 1.5rem;
+        font-weight: 900;
+        color: white;
+        margin: 220px 0px 0px 7rem;
+    }
+
+    #cardis {
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: white;
+        margin: -10px 0px 0px 7rem;
+    }
+
+    #shop {
+        font-size: 1rem;
+        height: 34px;
+        width: 8rem;
+        margin: -10px 0px 0px 7rem;
+        padding: 6px 24px;
+    }
+
+    #carpic {
+        height: 200px;
+        width: 20rem;
+        margin: 180px 7rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -210px;
+        margin-left: -23rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -210px;
+        margin-left: 20rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    #besttext {
+        font-size: 1.2rem;
+        padding: 1.5rem 2rem;
+    }
+
+    .allmob {
+        padding: 0px 4rem;
+    }
+
+
+    .mobitem {
+        height: auto;
+        width: 100%;
+    }
+
+    .mobname {
+        font-size: 0.8rem;
+    }
+
+    .mobpic {
+        height: 110px;
+    }
+
+    .mobprice {
+        font-size: 0.9rem;
+    }
+
+    #shop1 {
+        font-size: 0.8rem;
+        height: 30px;
+        width: 6rem;
+        padding: 6px 1rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -175px;
+        margin-left: -315px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -175px;
+        margin-left: 265px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .tvpic {
+        height: 110px;
+    }
+
+    .tvname {
+        font-size: 0.8rem;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: -315px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: 265px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .refpic {
+        height: 150px;
+    }
+
+    .refname {
+        font-size: 0.8rem;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -220px;
+        margin-left: -315px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -220px;
+        margin-left: 265px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .wmpic {
+        height: 110px;
+    }
+
+    .wmname {
+        font-size: 0.8rem;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: -315px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: 265px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 830px ***********/
+
+
+@media only screen and (min-width:781px) and (max-width:830px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 510px;
+        width: 100%;
+        margin-top: 100px;
+    }
+
+    #caritem {
+        margin-top: -30px;
+        margin-bottom: 30px;
+    }
+
+    #carname {
+        font-size: 1.5rem;
+        font-weight: 900;
+        color: white;
+        margin: 220px 0px 0px 7rem;
+    }
+
+    #cardis {
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: white;
+        margin: -10px 0px 0px 7rem;
+    }
+
+    #shop {
+        font-size: 1rem;
+        height: 34px;
+        width: 8rem;
+        margin: -10px 0px 0px 7rem;
+        padding: 6px 24px;
+    }
+
+    #carpic {
+        height: 200px;
+        width: 20rem;
+        margin: 180px 7rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -210px;
+        margin-left: -24rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -210px;
+        margin-left: 21rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    #besttext {
+        font-size: 1.2rem;
+        padding: 1.5rem 2rem;
+    }
+
+    .allmob {
+        padding: 0px 4rem;
+    }
+
+
+    .mobitem {
+        height: auto;
+        width: 100%;
+    }
+
+    .mobname {
+        font-size: 0.7rem;
+    }
+
+    .mobpic {
+        height: 130px;
+    }
+
+    .mobprice {
+        font-size: 0.9rem;
+    }
+
+    #shop1 {
+        font-size: 0.8rem;
+        height: 30px;
+        width: 6rem;
+        padding: 6px 1rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -185px;
+        margin-left: -335px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -185px;
+        margin-left: 285px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .tvpic {
+        height: 120px;
+    }
+
+    .tvname {
+        font-size: 0.7rem;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: -335px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: 285px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .refpic {
+        height: 180px;
+    }
+
+    .refname {
+        font-size: 0.7rem;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -220px;
+        margin-left: -335px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -220px;
+        margin-left: 285px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .wmpic {
+        height: 130px;
+    }
+
+    .wmname {
+        font-size: 0.7rem;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: -335px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: 285px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 920px ***********/
+
+
+@media only screen and (min-width:831px) and (max-width:920px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 510px;
+        width: 100%;
+        margin-top: 100px;
+    }
+
+    #caritem {
+        margin-top: -40px;
+        margin-bottom: 30px;
+    }
+
+    #carname {
+        font-size: 2rem;
+        font-weight: 900;
+        color: white;
+        margin: 180px 0px 0px 7rem;
+    }
+
+    #cardis {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: white;
+        margin: -10px 0px 0px 7rem;
+    }
+
+    #shop {
+        margin: 0px 0px 0px 7rem;
+    }
+
+    #carpic {
+        height: 220px;
+        width: 22rem;
+        margin: 160px 7rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -230px;
+        margin-left: -27rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -230px;
+        margin-left: 24rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    #besttext {
+        font-size: 1.4rem;
+    }
+
+    .mobname {
+        font-size: 0.7rem;
+    }
+
+    .mobpic {
+        height: 100px;
+    }
+
+    .mobprice {
+        font-size: 0.9rem;
+    }
+
+    #shop1 {
+        font-size: 0.8rem;
+        height: 30px;
+        width: 6rem;
+        padding: 6px 1rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -170px;
+        margin-left: -375px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -170px;
+        margin-left: 325px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .tvname {
+        font-size: 0.7rem;
+    }
+
+    .tvprice {
+        font-size: 0.9rem;
+    }
+
+    .tvpic {
+        height: 100px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -180px;
+        margin-left: -375px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -180px;
+        margin-left: 325px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .refname {
+        font-size: 0.7rem;
+    }
+
+    .refprice {
+        font-size: 0.9rem;
+    }
+
+    .refpic {
+        height: 160px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -220px;
+        margin-left: -375px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -220px;
+        margin-left: 325px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .wmname {
+        font-size: 0.7rem;
+    }
+
+    .wmprice {
+        font-size: 0.9rem;
+    }
+
+    .wmpic {
+        height: 110px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: -375px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: 325px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 1030px ***********/
+
+
+@media only screen and (min-width:921px) and (max-width:1030px) {
+
+
+    /*************** carousel ***************/
+
+    #carousel {
+        height: 510px;
+        width: 100%;
+        margin-top: 100px;
+    }
+
+    #caritem {
+        margin-top: -40px;
+        margin-bottom: 30px;
+    }
+
+    #carname {
+        font-size: 2rem;
+        font-weight: 900;
+        color: white;
+        margin: 200px 0px 0px 8rem;
+    }
+
+    #cardis {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: white;
+        margin: -10px 0px 0px 8rem;
+    }
+
+    #shop {
+        margin: 0px 0px 0px 8rem;
+    }
+
+    #carpic {
+        height: 240px;
+        width: 25rem;
+        margin: 160px 8rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -230px;
+        margin-left: -30rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -230px;
+        margin-left: 27rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #carousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** Mobile ***************/
+
+    .bestmob {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    #besttext {
+        font-size: 1.6rem;
+    }
+
+    .mobname {
+        font-size: 0.9rem;
+    }
+
+    .mobprice {
+        font-size: 0.9rem;
+    }
+
+    .mobpic {
+        height: 140px;
+    }
+
+    #shop1 {
+        font-size: 0.8rem;
+        height: 30px;
+        width: 6rem;
+        padding: 6px 1rem;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: -425px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: 375px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** smart tv ***************/
+
+    .besttv {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .tvname {
+        font-size: 0.9rem;
+    }
+
+    .tvprice {
+        font-size: 0.9rem;
+    }
+
+    .tvpic {
+        height: 120px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: -425px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -190px;
+        margin-left: 375px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** Refrigerator ***************/
+
+    .bestref {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .refname {
+        font-size: 0.9rem;
+    }
+
+    .refprice {
+        font-size: 0.9rem;
+    }
+
+    .refpic {
+        height: 190px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -240px;
+        margin-left: -425px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -240px;
+        margin-left: 375px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+    /*************** washing machine ***************/
+
+    .bestwm {
+        width: 90%;
+        padding: 1rem 0rem;
+    }
+
+    .wmname {
+        font-size: 0.9rem;
+    }
+
+    .wmprice {
+        font-size: 0.9rem;
+    }
+
+    .wmpic {
+        height: 150px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: -425px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev>span {
+        font-size: 2rem;
+    }
+
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        height: 50px;
+        width: 50px;
+        margin-top: -200px;
+        margin-left: 375px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next>span {
+        font-size: 2rem;
+    }
+
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 1290px ***********/
+
+
+@media only screen and (min-width:1031px) and (max-width:1290px) {
+
+
+
+
+    /*************** carousel ***************/
+
+
+    #carname {
+        font-size: 2.5rem;
+        font-weight: 900;
+        color: white;
+        margin: 220px 0px 0px 10rem;
+    }
+
+    #cardis {
+        font-size: 1.7rem;
+        font-weight: 600;
+        color: white;
+        margin: 0px 0px 0px 10rem;
+    }
+
+    #shop {
+        margin: 20px 0px 0px 10rem;
+    }
+
+    #carpic {
+        height: 300px;
+        width: 35rem;
+        margin: 160px 8rem 50px 10px;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev {
+        margin-top: -290px;
+        margin-left: -38rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+
+    #carousel>div.owl-nav>button.owl-next {
+        margin-top: -290px;
+        margin-left: 35rem;
+    }
+
+    #carousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+
+    /*************** Mobile ***************/
+
+    #besttext {
+        font-size: 1.8rem;
+    }
+
+    .mobpic {
+        height: 150px;
+    }
+
+    .mobname {
+        font-size: 1rem;
+
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev {
+        margin-top: -210px;
+        margin-left: -545px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+
+    #mobcarousel>div.owl-nav>button.owl-next {
+        margin-top: -210px;
+        margin-left: 490px;
+    }
+
+    #mobcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+
+    /*************** smart tv ***************/
+
+    .tvpic {
+        height: 120px;
+    }
+
+    .tvname {
+        font-size: 1rem;
+
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev {
+        margin-top: -200px;
+        margin-left: -555px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next {
+        margin-top: -200px;
+        margin-left: 490px;
+    }
+
+    #tvcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+
+    /*************** Refrigerator ***************/
+
+    .refpic {
+        height: 220px;
+    }
+
+    .refname {
+        font-size: 1rem;
+
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev {
+        margin-top: -255px;
+        margin-left: -555px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next {
+        margin-top: -255px;
+        margin-left: 490px;
+    }
+
+    #refcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+    /*************** washing machine ***************/
+
+    .wmpic {
+        height: 150px;
+    }
+
+    .wmname {
+        font-size: 1rem;
+
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev {
+        margin-top: -220px;
+        margin-left: -555px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-prev:hover {
+        background-color: white;
+        color: black;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next {
+        margin-top: -220px;
+        margin-left: 490px;
+    }
+
+    #wmcarousel>div.owl-nav>button.owl-next:hover {
+        background-color: white;
+        color: black;
+    }
+
+
+}

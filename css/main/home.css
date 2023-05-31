@@ -1,0 +1,585 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+/*************** carousel ***************/
+
+.main {
+    height: auto;
+    width: 100%;
+    background-color: #E3E6E6;
+    padding-bottom: 2rem;
+}
+
+#carousel {
+    height: 680px;
+    width: 100%;
+    margin-top: 60px;
+    background: rgb(2,161,229);
+    background: linear-gradient(180deg, rgba(2,161,229,1) 0%, rgba(0,93,128,1) 100%);
+}
+
+#caritem {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -40px;
+    margin-bottom: 60px;
+}
+
+#carname {
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    margin: 220px 0px 0px 16rem;
+}
+
+#cardis {
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    margin: 0px 0px 0px 16rem;
+}
+
+#shop {
+    font-size: 18px;
+    font-weight: 600;
+    height: 40px;
+    width: 10rem;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: red;
+    margin: 20px 0px 0px 16rem;
+    padding: 5px 36px;
+    text-align: center;
+}
+
+
+#shop:active {
+    transform: scale(0.9);
+}
+
+
+#carpic {
+    height: 300px;
+    width: 40rem;
+    margin: 200px 12rem 50px 10px;
+}
+
+
+#carousel>div.owl-nav>button.owl-prev {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(119, 119, 119);
+    position: absolute;
+    margin-top: -330px;
+    margin-left: -42rem;
+    transition: all 0.8s;
+}
+
+#carousel>div.owl-nav>button.owl-prev:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#carousel>div.owl-nav>button.owl-prev:active {
+    transform: scale(0.7)
+}
+
+#carousel>div.owl-nav>button.owl-prev>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%
+}
+
+#carousel>div.owl-nav>button.owl-next {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(173, 173, 173);
+    position: absolute;
+    margin-top: -330px;
+    margin-left: 39rem;
+    transition: all 0.8s;
+}
+
+#carousel>div.owl-nav>button.owl-next:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#carousel>div.owl-nav>button.owl-next:active {
+    transform: scale(0.7);
+}
+
+#carousel>div.owl-nav>button.owl-next>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+
+
+/*************** Mobile ***************/
+
+.bestmob {
+    height: auto;
+    width: 95%;
+    background-color: white;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+}
+
+#besttext {
+    font-size: 2rem;
+    font-weight: 600;
+    color: black;
+    padding: 1.5rem 3rem;
+}
+
+.allmob {
+    height: auto;
+    width: 100%;
+    padding: 0px 4rem;
+}
+
+
+.mobitem {
+    height: auto;
+    width: 100%;
+}
+
+.mobname {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.mobpic {
+    height: 200px;
+    justify-content: center;
+    transition: all 0.8s;
+}
+
+.mobpic:hover {
+    transform: scale(1.1);
+}
+
+.mobprice {
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.anchor {
+    text-decoration: none;
+}
+
+#shop1 {
+    font-size: 1rem;
+    font-weight: 600;
+    height: 30px;
+    width: 120px;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    background-color: red;
+    padding: 1px 1rem;
+    margin-top: -10px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#shop1:active {
+    transform: scale(0.9);
+}
+
+
+#mobcarousel>div.owl-nav>button.owl-prev {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(119, 119, 119);
+    position: absolute;
+    margin-top: -230px;
+    margin-left: -660px;
+    transition: all 0.8s;
+}
+
+
+#mobcarousel>div.owl-nav>button.owl-prev:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#mobcarousel>div.owl-nav>button.owl-prev:active {
+    transform: scale(0.7);
+}
+
+#mobcarousel>div.owl-nav>button.owl-prev>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+#mobcarousel>div.owl-nav>button.owl-next {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(173, 173, 173);
+    position: absolute;
+    margin-top: -230px;
+    margin-left: 600px;
+    transition: all 0.8s;
+}
+
+#mobcarousel>div.owl-nav>button.owl-next:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#mobcarousel>div.owl-nav>button.owl-next:active {
+    transform: scale(0.7);
+}
+
+
+#mobcarousel>div.owl-nav>button.owl-next>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+
+/*************** smart tv ***************/
+
+.besttv {
+    height: auto;
+    width: 95%;
+    background-color: white;
+    margin: 0rem auto;
+    padding: 1rem 2rem;
+}
+
+
+.alltv {
+    height: auto;
+    width: 100%;
+    padding: 0px 4rem;
+}
+
+.tvitem {
+    height: auto;
+    width: 100%;
+}
+
+.tvname {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.tvpic {
+    height: 160px;
+    justify-content: center;
+    transition: all 0.8s;
+}
+
+.tvpic:hover {
+    transform: scale(1.1);
+}
+
+.tvprice {
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+#tvcarousel>div.owl-nav>button.owl-prev {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(119, 119, 119);
+    position: absolute;
+    margin-top: -225px;
+    margin-left: -660px;
+    transition: all 0.8s;
+}
+
+#tvcarousel>div.owl-nav>button.owl-prev:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#tvcarousel>div.owl-nav>button.owl-prev:active {
+    transform: scale(0.7);
+}
+
+#tvcarousel>div.owl-nav>button.owl-prev>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+#tvcarousel>div.owl-nav>button.owl-next {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(173, 173, 173);
+    position: absolute;
+    margin-top: -225px;
+    margin-left: 600px;
+    transition: all 0.8s;
+}
+
+#tvcarousel>div.owl-nav>button.owl-next:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#tvcarousel>div.owl-nav>button.owl-next:active {
+    transform: scale(0.7);
+}
+
+#tvcarousel>div.owl-nav>button.owl-next>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+
+
+/*************** Refrigerator ***************/
+
+.bestref {
+    height: auto;
+    width: 95%;
+    background-color: white;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+}
+
+
+.allref {
+    height: auto;
+    width: 100%;
+    padding: 0px 4rem;
+}
+
+.refitem {
+    height: auto;
+    width: 100%;
+}
+
+.refname {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.refpic {
+    height: 330px;
+    justify-content: center;
+    transition: all 0.8s;
+}
+
+.refpic:hover {
+    transform: scale(1.1);
+}
+
+.refprice {
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+#refcarousel>div.owl-nav>button.owl-prev {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(119, 119, 119);
+    position: absolute;
+    margin-top: -300px;
+    margin-left: -660px;
+    transition: all 0.8s;
+}
+
+#refcarousel>div.owl-nav>button.owl-prev:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#refcarousel>div.owl-nav>button.owl-prev:active {
+    transform: scale(0.7);
+}
+
+
+#refcarousel>div.owl-nav>button.owl-prev>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+#refcarousel>div.owl-nav>button.owl-next {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(173, 173, 173);
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 600px;
+    transition: all 0.8s;
+}
+
+#refcarousel>div.owl-nav>button.owl-next:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#refcarousel>div.owl-nav>button.owl-next:active {
+    transform: scale(0.7);
+}
+
+#refcarousel>div.owl-nav>button.owl-next>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+/*************** washing machine ***************/
+
+.bestwm {
+    height: auto;
+    width: 95%;
+    background-color: white;
+    margin: 0rem auto;
+    padding: 1rem 2rem;
+}
+
+
+.allwm {
+    height: auto;
+    width: 100%;
+    padding: 0px 4rem;
+
+}
+
+.wmitem {
+    height: auto;
+    width: 100%;
+}
+
+.wmname {
+    font-size: 18px;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.wmpic {
+    height: 210px;
+    justify-content: center;
+    transition: all 0.8s;
+
+}
+
+.wmpic:hover {
+    transform: scale(1.1);
+}
+
+.wmprice {
+    font-size: 1rem;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+#wmcarousel>div.owl-nav>button.owl-prev {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(119, 119, 119);
+    position: absolute;
+    margin-top: -255px;
+    margin-left: -660px;
+    transition: all 0.8s;
+}
+
+#wmcarousel>div.owl-nav>button.owl-prev:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#wmcarousel>div.owl-nav>button.owl-prev:active {
+    transform: scale(0.7);
+}
+
+#wmcarousel>div.owl-nav>button.owl-prev>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}
+
+#wmcarousel>div.owl-nav>button.owl-next {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 20px rgb(173, 173, 173);
+    position: absolute;
+    margin-top: -255px;
+    margin-left: 600px;
+    transition: all 0.8s;
+}
+
+#wmcarousel>div.owl-nav>button.owl-next:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#wmcarousel>div.owl-nav>button.owl-next:active {
+    transform: scale(0.7);
+}
+
+#wmcarousel>div.owl-nav>button.owl-next>span {
+    font-size: 3rem;
+    font-weight: 600;
+    position: relative;
+    top: -18%;
+}

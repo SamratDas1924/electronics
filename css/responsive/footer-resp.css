@@ -1,0 +1,375 @@
+/********** Responsive for max-width: 290px ***********/
+
+@media only screen and (max-width:290px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 20px 0px 20px;
+    }
+
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.1rem;
+    }
+
+    .infochild {
+        font-size: 14px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 14px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 10px;
+    }
+
+
+}
+
+
+
+
+
+
+
+/************ Responsive for max-width: 380px ***********/
+
+
+@media only screen and (min-width:291px) and (max-width:380px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 70px 0px 70px;
+    }
+
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.3rem;
+    }
+
+    .infochild {
+        font-size: 16px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/************ Responsive for max-width: 400px ***********/
+
+
+@media only screen and (min-width:381px) and (max-width:400px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 70px 0px 70px;
+    }
+
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.3rem;
+    }
+
+    .infochild {
+        font-size: 16px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/************ Responsive for max-width: 420px ***********/
+
+
+
+@media only screen and (min-width:401px) and (max-width:420px) {
+
+
+    /*************** footer ***************/
+
+    .footer {
+        display: block;
+        padding: 50px 70px 0px 70px;
+    }
+
+    .info, .follow, .help {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .footer-head {
+        font-size: 1.3rem;
+    }
+
+    .infochild {
+        font-size: 16px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 24px;
+        padding: 4px 5px;
+    }
+
+    .helpchild {
+        font-size: 16px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 550px ***********/
+
+
+
+@media only screen and (min-width:421px) and (max-width:550px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 20px;
+    }
+
+    .info {
+        width: 30%;
+    }
+
+    .follow {
+        width: 30%;
+    }
+
+    .help {
+        width: 35%;
+    }
+
+    .footer-head {
+        font-size: 18px;
+    }
+
+    .folicon {
+        height: 30px;
+        width: 30px;
+        margin: 0px 10px;
+        font-size: 20px;
+        padding: 2px 5px;
+    }
+
+    .infochild {
+        font-size: 14px;
+    }
+
+    .helpchild {
+        font-size: 12px;
+        margin: 10px;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 780px ***********/
+
+
+
+@media only screen and (min-width:551px) and (max-width:780px) {
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+    .footer-head {
+        font-size: 20px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 30px;
+        padding: 1px 5px;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 830px ***********/
+
+
+@media only screen and (min-width:781px) and (max-width:830px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+    .footer-head {
+        font-size: 20px;
+    }
+
+    .folicon {
+        height: 40px;
+        width: 40px;
+        margin: 0px 10px;
+        font-size: 30px;
+        padding: 1px 5px;
+    }
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 920px ***********/
+
+
+@media only screen and (min-width:831px) and (max-width:920px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+}
+
+
+
+
+
+
+
+/********** Responsive for max-width: 1030px ***********/
+
+
+@media only screen and (min-width:921px) and (max-width:1030px) {
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+}
+
+
+
+
+
+
+/********** Responsive for max-width: 1290px ***********/
+
+
+@media only screen and (min-width:1031px) and (max-width:1290px) {
+
+
+
+    /*************** footer ***************/
+
+    .footer {
+        padding: 50px;
+    }
+
+}

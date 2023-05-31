@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+
+/**************** main ********************/
+
+.main {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.sub-left {
+    height: auto;
+    width: 20%;
+    padding: 2rem;
+    border-right: 1px solid rgb(208, 208, 208);
+}
+
+.left-head {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+li {
+    display: block;
+    margin: 1rem 0rem 1rem 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.item {
+    font-size: 1rem;
+    color: rgb(42, 42, 42);
+}
+
+
+.sub-right {
+    height: auto;
+    width: 80%;
+}
